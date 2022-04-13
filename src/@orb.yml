@@ -7,7 +7,7 @@ display:
   source_url: "https://github.com/ostk0069/retry-command"
 
 commands:
-  run-with-retry:
+  retry-command:
     description: Run command with retry
     parameters:
       command:
